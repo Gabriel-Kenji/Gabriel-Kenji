@@ -10,7 +10,7 @@
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabriel-Kenji&theme=omni&locale=pt-br)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabriel-Kenji&theme=buefy-dark&locale=pt-br)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabriel-Kenji&theme=midnight-purple&locale=pt-br)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabriel-Kenji&theme=midnight-purple&locale=pt-br&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
  <a  href="https://www.linkedin.com/in/gabriel-kenji-utiyama-a257261b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
 ![Snake animation](https://github.com/Gabriel-Kenji/Gabriel-Kenji/blob/output/github-contribution-grid-snake.svg)
