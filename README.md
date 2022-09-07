@@ -1,5 +1,5 @@
 ### Olá    👋
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,js,css,php,mysql,nodejs,docker&theme=dark)](https://skills.thijs.gg)
 <div>
   <a href="https://github.com/Gabriel-Kenji">
     <!-- <img height="180em" width="505em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Kenji&hide=stars&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
